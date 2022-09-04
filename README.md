@@ -4,7 +4,6 @@
 This Museum has fascinating science stuff to watch, a moving **dinosour robot** which holds a prominent place in the museum and all the **science related stuff** makes jubilant who vist the museum.
 ***
 Which Airport is near?
-***
 Well the Nearest airport to the museum is Bangalore International Airport. You can reach out to the museum from the Airport by taking a glance of below points
 1. Come out of the airport by the Airport provided Transportation
 2. Now look for the Means of transportation of your choice
