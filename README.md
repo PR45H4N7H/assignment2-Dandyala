@@ -12,3 +12,7 @@ Well the Nearest airport to the museum is Bangalore International Airport. You c
     3. Train
 3. If the Transportation is Bus/Train, the Number is 223, same for both
 4. With in 30-45 minutes of journey you will reach the Museum.
+## Recommended places to vist Near Museum
+* Cubbon Park
+* Jawaharlal Nehru Planetarium
+* Bangalore Aquarium
