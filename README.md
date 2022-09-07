@@ -19,7 +19,7 @@ Well the Nearest airport to the museum is Bangalore International Airport. You c
 [aboutMe](AboutMe.md)
 ***
 ## Cities Recommended to Visit..
-These are the cities we reccomend you to visit, which are worth visiting them. para to be typed
+These are the cities we reccomend you to visit, which are worth visiting them.
 | Name of City | Location to Visit | Time to spend |
 | :---: | :---: | :---: |
 | Mangaluru | Panamburu beach | 2 hours |
@@ -30,3 +30,18 @@ These are the cities we reccomend you to visit, which are worth visiting them. p
 ## Quotes to Inspire :)
 > IMAGINATION IS MORE IMPORTANT THAN KNOWLEDGE.  KNOWLEDGE IS LIMITED;  IMAGINATION ENCIRCLES THE WORLD. *Albert Einstein*<br>
 > IF YOU WANT TO FIND THE SECRETS OF UNIVERSE, THINK IN TERMS OF ENERGY, FREQUENCY AND VIBRATOIN. *Nikola Tesla*
+***
+## Code
+> Remove Specific Categories From The Loop
+[Link to StackOverFlow](https://stackoverflow.com/questions/1780386/looping-through-wordpress-categories)
+```
+@media screen and (max-width: 767px){
+
+   .related.products ul.products li.product {
+    flex: 0 1 auto;
+    width: 40%;
+
+  }
+}
+```
+[Link to CSS-Tricks](https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/)
