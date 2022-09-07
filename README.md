@@ -17,3 +17,12 @@ Well the Nearest airport to the museum is Bangalore International Airport. You c
 * Jawaharlal Nehru Planetarium
 * Bangalore Aquarium
 [aboutMe](AboutMe.md)
+***
+## Cities Recommended to Visit..
+These are the cities we reccomend you to visit, which are worth visiting them. para to be typed
+| Name of City | Location to Visit | Time to spend |
+| :---: | :---: | :---: |
+| Mangaluru | Panamburu beach | 2 hours |
+| Udupi | Anantheshwara | 1 hour |
+| Mysore | Mysore Palace | 3 hours |
+| ooty | Ooty Lake | 3 hours |
