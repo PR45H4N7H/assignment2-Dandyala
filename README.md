@@ -30,4 +30,5 @@ These are the cities we reccomend you to visit, which are worth visiting them. p
 ## Quotes to Inspire :)
 > IMAGINATION IS MORE IMPORTANT THAN KNOWLEDGE.  KNOWLEDGE IS LIMITED;  IMAGINATION ENCIRCLES THE WORLD. *Einstein*
 <br>
+
 > IF YOU WANT TO FIND THE SECRETS OF UNIVERSE, THINK IN TERMS OF ENERGY, FREQUENCY AND VIBRATOIN. *Nikola Tesla*
